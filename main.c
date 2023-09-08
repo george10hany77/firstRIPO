@@ -1,6 +1,6 @@
 #include<stdio>
 int main(){
-	printf("First edit");
+	printf("Second edit");
 	
 	return 0;
 }
